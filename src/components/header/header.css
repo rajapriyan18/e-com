@@ -1,0 +1,22 @@
+.nox p{
+    color: white;
+}
+.rignav{
+    justify-content: space-between;
+    color: white;
+
+
+}
+.rignav a{
+    justify-content: space-between;
+    padding-right: 25px;
+
+}
+.rignav a:hover{
+    padding-right: 25px;
+    color: orangered;
+}
+.rignav a:active{
+    padding-right: 25px;
+    color:palevioletred;
+}
